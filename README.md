@@ -16,8 +16,11 @@ pip install numpy pandas plotly.express scikit-learn
 ```
 ## Project Structure
 CC GENERAL.csv: This file contains the raw data downloaded from [Kaggle](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata).
+
 customer_segmentation.ipynb: This file contains the Jupyter notebooks used for data cleaning, exploratory data analysis, and model building.
+
 data_dictionary.md: This file contains description of features.
+
 README.md: This file.
 
 ## Conclusion
